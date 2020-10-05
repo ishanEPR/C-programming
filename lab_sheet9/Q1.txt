@@ -1,0 +1,6 @@
+StRe_no		St_Name		St_age
+PS/00/78	Nimal		23
+PS/00/79	Ishan		22
+PS/00/80	Kamal		23
+PS/00/81	Sunil		24
+PS/00/82	Reshmika	23
